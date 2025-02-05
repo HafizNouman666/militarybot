@@ -1,0 +1,6 @@
+flask>=2.0.0
+langchain-google-genai
+langchain-chroma
+langchain-community
+python-dotenv
+tqdm
